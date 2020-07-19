@@ -3,7 +3,7 @@ body{
 }
 
 .navbar {
-    background-color: rgb(0, 184, 197);
+    background-color:  rgb(190, 179, 23);
 }
 .quem-somos{
     background-color: rgb(226, 219, 219);
@@ -14,5 +14,11 @@ body{
     padding-bottom: 50px;
 }
 .parceiros{
-    background-color: skyblue;
+    background-color: rgb(104, 112, 116);
+    
+
+}
+.bg-footer{
+    background-color: black;
+    color: white;
 }
